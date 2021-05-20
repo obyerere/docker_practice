@@ -1,13 +1,6 @@
-# gitbash-ops
+# Docker Practise
 
-This is a home project where I learn Linux commands , and GIT commands using MINGW64
+This is a home project where I learn to containerize aplication
 
-Commands Include:
-git add
-git commit
-git clone
-git remote
-git branch 
-git push 
-git pull
-
+Using AWS console i have spun an Ubuntu EC2 Instance // This will be the my server
+app.html // mini html appliction created for practice
